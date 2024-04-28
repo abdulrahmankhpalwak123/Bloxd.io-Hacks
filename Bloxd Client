@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bloxd.io Client v1.0(Obfuscated)
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      0.5
 // @description  Easy keybinds to make gameplay more desirable
 // @author       HoaxCheats
 // @match        *://bloxd.io/*
